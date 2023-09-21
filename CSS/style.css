@@ -1,0 +1,74 @@
+/* ↓ Importation de la police ↓ */
+@font-face {
+    font-family: Nunito;
+    src: url(../FONT/Nunito-VariableFont_wght.ttf);
+}
+
+/* ↓ Création de varible pour les couleurs ↓ */
+:root{
+    --police_color : #3498db;
+    --background_color : #333333;
+}
+
+body{
+    font-family: Nunito;
+    color: var(--police_color);
+    background-color: var(--background_color);
+    margin: 0%;
+    padding: 0%;
+}
+
+/*! ↓ Header ↓  */
+header {
+    display: flex;
+    justify-content: center;
+}
+
+header .container_title{
+    display: flex;
+    align-items: center;
+    width: 7%;
+}
+
+header svg{
+    margin-right: 10%;
+}
+
+header a{
+    text-decoration: none;
+    color: var(--police_color);
+}
+
+/*! ↓ Main ↓ */
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+
+main button{
+    background-color: var(--police_color);
+    color: var(--background_color);
+    border: 0;
+    width: 7%;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+
+main input{
+    width: 25%;
+    height: 5vh;
+    border: 0;
+    outline: none;
+    font-size: x-large;
+    color: var(--police_color);
+    margin-right: 1%;
+    border-radius: 10px;
+    padding-left: 0.7%;
+}
+
+
+main button :hover{
+    background-color: #1c91df;
+}
