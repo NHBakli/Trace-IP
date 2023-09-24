@@ -1,5 +1,5 @@
 <div align="center">
-# TraceIP
+<h1>TraceIP</h1>
 <img src = "./SRC/logo.png" alt = "Logo">
 </div>
 
