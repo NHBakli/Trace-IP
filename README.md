@@ -1,4 +1,3 @@
-<div align="center">
 # TraceIP
 
 <img src = "./SRC/logo.png" alt = "Logo">
@@ -34,6 +33,3 @@ TraceIP est une application web permettant de récupérer des informations sur u
 ## Auteur
 
 [NHBakli](https://github.com/NHBakli)
-
-
-</div>
