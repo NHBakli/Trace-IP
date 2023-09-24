@@ -43,7 +43,7 @@ header a{
 main{
     display: flex;
     justify-content: center;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 main button{
@@ -54,6 +54,7 @@ main button{
     border-radius: 10px;
     font-size: large;
     font-weight: bold;
+    cursor: pointer;
 }
 
 main input{
@@ -69,6 +70,40 @@ main input{
 }
 
 
-main button :hover{
-    background-color: #1c91df;
+.result{
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.result .print{
+    display: flex;
+    flex-direction: column;
+    margin-right: 5%;
+}
+
+.result .print a{
+    color: var(--police_color);
+    font-weight: bold;
+}
+
+#map{ 
+    width: 20%; 
+    height: 300px;
+    outline: none;
+    display: flex;
+}
+
+
+
+/* ↓ Error ↓ */
+.error{
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-weight: bold;
+}
+
+.error .bad_ip, .nothing{
+    display: none;
 }
