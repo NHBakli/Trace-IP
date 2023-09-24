@@ -29,6 +29,6 @@ TraceIP est une application web permettant de récupérer des informations sur u
 4. Les informations récupérées seront affichées sur la page.
 
 <div align="center">
-## Auteur
+<h2>Auteur</h2>
 [NHBakli](https://github.com/NHBakli)
 </div>
