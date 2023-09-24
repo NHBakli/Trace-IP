@@ -1,5 +1,6 @@
 <div align="center">
 <h1>TraceIP</h1>
+
 <img src = "./SRC/logo.png" alt = "Logo">
 </div>
 
@@ -27,6 +28,7 @@ TraceIP est une application web permettant de récupérer des informations sur u
 3. Saisissez une adresse IP dans le champ de recherche et appuyez sur "Rechercher" ou appuyez sur "Entrée" pour lancer la recherche.
 4. Les informations récupérées seront affichées sur la page.
 
+<div align="center">
 ## Auteur
-
 [NHBakli](https://github.com/NHBakli)
+</div>
