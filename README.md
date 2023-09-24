@@ -1,7 +1,8 @@
-# TraceIP
 <div align="center">
+# TraceIP
 <img src = "./SRC/logo.png" alt = "Logo">
 </div>
+
 
 TraceIP est une application web permettant de récupérer des informations sur une adresse IP donnée. Il utilise l'API d'ip-api.com pour obtenir des détails tels que le pays, la région, la ville, le code postal, le FAI (fournisseur de services Internet) et les coordonnées géographiques.
 
