@@ -25,7 +25,7 @@ TraceIP est une application web permettant de récupérer des informations sur u
 
 1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/TraceIP.git`
 2. Ouvrez le fichier `index.html` dans votre navigateur web.
-3. Saisissez une adresse IP dans le champ de recherche et appuyez sur "Rechercher" ou appuyez sur "Entrée" pour lancer la recherche.
+3. Saisissez une adresse IP dans le champ de recherche et appuyez sur "Search" ou appuyez sur "Entrée" pour lancer la recherche.
 4. Les informations récupérées seront affichées sur la page.
 
 <div align="center">
