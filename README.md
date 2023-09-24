@@ -30,5 +30,5 @@ TraceIP est une application web permettant de récupérer des informations sur u
 
 <div align="center">
 <h2>Auteur</h2>
-[NHBakli](https://github.com/NHBakli)
+<a href = "https://github.com/NHBakli">NHBakli</a>
 </div>
